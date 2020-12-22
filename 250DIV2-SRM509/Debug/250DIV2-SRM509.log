@@ -1,5 +1,0 @@
-﻿  Using triplet "x86-windows" from "D:\vcpkg\installed\x86-windows\"
-  250DIV2-SRM509.cpp
-D:\miret\University\My Applications\C_CPP\Online Problems\TopCoder Problems\250DIV2-SRM509\250DIV2-SRM509.cpp(20,1): warning C4305: 'initializing': truncation from '__int64' to 'int'
-D:\miret\University\My Applications\C_CPP\Online Problems\TopCoder Problems\250DIV2-SRM509\250DIV2-SRM509.cpp(20,20): warning C4309: 'initializing': truncation of constant value
-  250DIV2-SRM509.vcxproj -> D:\miret\University\My Applications\C_CPP\Online Problems\TopCoder Problems\Debug\250DIV2-SRM509.exe

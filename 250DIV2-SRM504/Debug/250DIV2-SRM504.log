@@ -1,5 +1,0 @@
-﻿  Using triplet "x86-windows" from "D:\vcpkg\installed\x86-windows\"
-  250DIV2-SRM504.cpp
-D:\miret\University\My Applications\C_CPP\Online Problems\TopCoder Problems\250DIV2-SRM504\250DIV2-SRM504.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
-D:\miret\University\My Applications\C_CPP\Online Problems\TopCoder Problems\250DIV2-SRM504\250DIV2-SRM504.cpp(28,22): warning C4018: '<': signed/unsigned mismatch
-  250DIV2-SRM504.vcxproj -> D:\miret\University\My Applications\C_CPP\Online Problems\TopCoder Problems\Debug\250DIV2-SRM504.exe
